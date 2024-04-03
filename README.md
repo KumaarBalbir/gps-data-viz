@@ -52,7 +52,7 @@ To utilize the functionalities provided by `GPSVis` and `GPSdata` classes:
 - You can refer to these examples to understand how to use the functionalities provided by each script.
 
 ## Results
-- Shortest Path ( origin_node, destination_node, method = `dijakstra`) ![shortest_path](resource/shortestpath.png) \n
+- Shortest Path ( origin_node, destination_node, method = `dijakstra`) ![shortest_path](resource/shortestpath.png)
 
 
 - Beijing [OSM](https://www.openstreetmap.org/#map=4/21.84/82.79) map ![beijing-map](resource/map_beijing.png)
