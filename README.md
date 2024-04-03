@@ -1,4 +1,4 @@
-# IISc Bangalore assignment
+# GPS Data and Bike Trip Analysis
 
 This repository aims to provide tools for **visualizing and analyzing GPS data**, particularly focusing on bike trip data and trajectories. Description of below Python scripts:
 
@@ -50,6 +50,15 @@ To utilize the functionalities provided by `GPSVis` and `GPSdata` classes:
 
 - Example usage of both scripts is demonstrated in the `if __name__=="__main__"` blocks within each file.
 - You can refer to these examples to understand how to use the functionalities provided by each script.
+
+## Results
+- Shortest Path ( origin_node, destination_node, method = `dijakstra`) ![shortest_path](resource/shortestpath.png) \n
+
+
+- Beijing [OSM](https://www.openstreetmap.org/#map=4/21.84/82.79) map ![beijing-map](resource/map_beijing.png)
+
+
+- Bike trip traffic on Beijing map ![bike-trip-traffic](resource/beijing_hotspot.png)
 
 ## Note
 
